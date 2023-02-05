@@ -1,5 +1,5 @@
 # Wordle
-This nostalgia game is something we all have tried our hands at. There is a word that you have to guess ( A new word everyday )
+This nostalgia game is something we all have tried our hands at. There is a word that you have to guess ( A new word everyday )<br>
 i) The letter which isn't there in the word turns gray,<br>
 ii) The letter which is included in the word but is wrongly located turns yellow,<br>
 iii) The letter that is included in the word and is correctly placed turns green.<br>
