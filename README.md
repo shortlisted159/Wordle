@@ -16,6 +16,5 @@ https://willowy-crostata-6245a3.netlify.app/
 ![Screenshot (84)](https://user-images.githubusercontent.com/64829176/216807465-baaf670b-3404-4048-9723-44a655ea6445.png)
 
 ### Deployment
-Netlify 
-
+Netlify, A website hosting platform has been used to deploy this application.
 
