@@ -16,7 +16,7 @@ https://willowy-crostata-6245a3.netlify.app/
 ![Screenshot (84)](https://user-images.githubusercontent.com/64829176/216807465-baaf670b-3404-4048-9723-44a655ea6445.png)
 
 ### Gif
-https://user-images.githubusercontent.com/64829176/223490534-9a8205ba-2794-4bcf-8b6c-02a8f289e0a3.mp4
+![](https://media.giphy.com/media/BKcULSpycfsPFlhlYZ/giphy.gif)
 
 
 
