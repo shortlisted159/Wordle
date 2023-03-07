@@ -16,7 +16,9 @@ https://willowy-crostata-6245a3.netlify.app/
 ![Screenshot (84)](https://user-images.githubusercontent.com/64829176/216807465-baaf670b-3404-4048-9723-44a655ea6445.png)
 
 ### Gif
-<iframe src="https://giphy.com/embed/BKcULSpycfsPFlhlYZ" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/BKcULSpycfsPFlhlYZ">via GIPHY</a></p>
+https://user-images.githubusercontent.com/64829176/223490534-9a8205ba-2794-4bcf-8b6c-02a8f289e0a3.mp4
+
+
 
 ### Deployment
 Netlify, A website hosting platform has been used to deploy this application.
