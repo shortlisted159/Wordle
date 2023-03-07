@@ -12,14 +12,9 @@ iii) The letter that is included in the word and is correctly placed turns green
 ## Demo
 https://willowy-crostata-6245a3.netlify.app/
 
-#### Screenshot-
-![Screenshot (84)](https://user-images.githubusercontent.com/64829176/216807465-baaf670b-3404-4048-9723-44a655ea6445.png)
 
 ### Gif
-![](https://user-images.githubusercontent.com/64829176/223492259-aeebdd3b-4166-41e3-a4f3-16146727b374.mp4)
-
-
-
+![giphy](https://user-images.githubusercontent.com/64829176/223493238-71a656bd-b4eb-4c9e-bf37-f4db7940a90d.gif)
 
 
 ### Deployment
